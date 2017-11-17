@@ -1,0 +1,77 @@
+<html>
+<head>
+<title>CIS71: Some Simple C Programs</title>
+</head>
+
+<body>
+
+<h1>CIS 71: Some Simple C Programs</h1>
+
+
+<ul>
+<li><a href="hello.c">The Hello program</a>
+<li><a href="power2.c">Computing powers of 2</a>
+<li><a href="homework1.c">Printing Large Block Letters</a>
+<li><a href="add2.c">Adding two integers</a>
+<li><a href="addn.c">Adding n integers</a>
+<li><a href="add.c">Adding a sequence of positive integers</a>
+<li><a href="coins.c">Finding the value of a collection of coins</a>
+<li><a href="factorial.c">Computing the factorial of a number</a>
+<li><a href="prime1.c">Determining if a number is a prime</a>
+<li><a href="factors1.c">Finding all the proper factors of a number</a>
+<li><a href="true.c">What are in C the values of TRUE and FALSE?</a>
+<li><a href="fibo.c">Computing Fibonacci numbers</a>
+<li><a href="funcs.c">Some simple functions</a>
+<li><a href="funcs2.c">More simple functions</a>
+<li><a href="scope1.c">Simple example on scope rules</a>
+<li><a href="scope2.c">Another example on scope rules</a>
+<li><a href="array.c">Operations on arrays</a>
+<li><a href="array1.c">Simple uses of arrays</a>
+<li><a href="array2.c">Reading, writing, reversing an integer array</a>
+<li><a href="misc.c">Various C features: __DATE__, sizeof, conditional expressions, ..</a>
+<li><a href="addresses.c">Addresses and values of variables</a>
+<li><a href="codes.c">Numeric value of printable characters</a>
+<li><a href="random.c">A simple linear congruence random number generator</a>
+<li><a href="randompermute.c">Generating random permutations</a>
+<li><a href="line.c">Reading lines from input and echoeing them to output</a>
+<li><a href="linear.c">Reading an array and doing linear searches on it</a>
+<li><a href="shift.c">Rotating an array</a>
+<li><a href="sieve.c">Primes using sieve method</a>
+<li><a href="string1.c">Starting with strings</a>
+<li><a href="getline.c">Reading a line from input</a>
+<li><a href="string2.c">Compacting a string</a>
+<li><a href="counts.c">Various counts on a text file</a>
+<li><a href="cpfile.c">Copying a text file</a>
+<li><a href="enum1.c">Using enumerations</a>
+<li><a href="enum2.c">Using typedef</a>
+<li><a href="binary.c">Reading an array and doing binary searches on it</a>
+<li><a href="selection.c">Sorting an array of integers with Selection Sort</a>
+<li><a href="bubble.c">Sorting an array of integers with Bubble Sort</a>
+<li><a href="http://www.cs.caltech.edu/~cs138/138a/examples/mergesort/">MergeSort [from CalTech]</a>
+<li><a href="number.c">Reading and Writing an Integer</a>
+<li><a href="cpintarray.c">Arrays and pointers: pointer arithmetic</a>
+<li><a href="cis71/selectionmain.html">Selection Sort, decomposed into
+multiple files</a> [see 
+<a href="http://www.cis.temple.edu/~ingargio/cis71/ta/objectlib.html">discussion</a>]
+<li><a href="hmw10.c">Program outline for Homework 10</a>
+<li><a href="cis71/hmw10main.html">Program outline for Homework 10, decomposed</a>
+<li><a href="struct.c">Simple uses of structures</a>
+<li><a href="studentarray.c">Reading and writing to a file an array of structures</a>
+<li><a href="merge.c">Merging sorted sequences of integers</a>
+<li><a href="stringmerge.c">Merging two sorted files of strings</a>
+<li><a href="sortmerge.c">Sorting and merging sequences of student records</a>
+<li><a href="clean.c">A program to remove those ugly CONTROL-M s </a>
+<li><a href="studentlist.c">Reading and writing to a file a list of structures</a>
+<li><a href="cis71/studentlistmain.html"">Reading and writing to a file a 
+list of structures using a queue ADT</a>
+<li><a href="makebinfile.c">Create a binary file</a> from 
+<a href="unsstudent.dat">a text file</a> and then
+<a href="readbinfile.c">read from it</a>
+<!--
+<li><a href="fifo/">A Dynamic FIFO </a>
+<li><a href="priority/">A Dynamic Priority FIFO</a>
+-->
+</ul>
+
+</body>
+</html>
